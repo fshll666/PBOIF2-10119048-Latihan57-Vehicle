@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan57.vehicle;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Berisi Program Vehicle
  */
 public class Vehicle {
     private String myBrand,myModel;
